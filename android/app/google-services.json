@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421036401011",
+    "project_id": "rdp-todolist-910c5",
+    "storage_bucket": "rdp-todolist-910c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421036401011:android:35bdea30518d4d785d6506",
+        "android_client_info": {
+          "package_name": "com.rdptodolist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3I3HzaEqoCLEY3bT7Per563BihcEGXb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
